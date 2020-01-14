@@ -8,9 +8,9 @@ Multi stage Dockerfile
 
 ### Usage: 
 
-copy docker file into local mac or vm
+Copy docker file into local mac or vm
 then run the following command
-docker build -t petstore:v1 .
+`docker build -t petstore:v1` .
 
 ### Validation:
-docker run -it petstore:v1 sh
+`docker run -it petstore:v1 sh`
