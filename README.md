@@ -1,12 +1,12 @@
 ## Petstore
 
-Multi stage Dockerfile
+#### Multi stage Dockerfile
 
 * Clone petstore repository. 
 * Build the maven project.
 * Maven artifactory is copied to other container.
 
-### Usage: 
+### Procedure: 
 
 Copy docker file into local mac or vm
 then run the following command
